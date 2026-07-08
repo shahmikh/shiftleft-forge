@@ -73,7 +73,7 @@ jobs:
       - name: Run Checkov
         uses: bridgecrewio/checkov-action@master
         with:
-    	  directory: infra/
+          directory: infra/
           output_format: cli,sarif
           output_file_path: console,checkov-results.sarif
           soft_fail: true
