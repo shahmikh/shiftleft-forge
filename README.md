@@ -297,7 +297,7 @@ This is **Project 1** in a five-project DevSecOps/Cloud Security portfolio:
 ## Connect
 
 **LinkedIn:** https://www.linkedin.com/in/syed-shahmikh-ali-6b962b201/  
-**GitHub:** github.com/shahmikh
+**GitHub:** https://github.com/shahmikh
 
 ---
 
