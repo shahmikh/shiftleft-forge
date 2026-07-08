@@ -296,8 +296,8 @@ This is **Project 1** in a five-project DevSecOps/Cloud Security portfolio:
 
 ## Connect
 
-**LinkedIn:** [your LinkedIn URL]  
-**GitHub:** [github.com/YOUR-USERNAME](https://github.com/YOUR-USERNAME)
+**LinkedIn:** https://www.linkedin.com/in/syed-shahmikh-ali-6b962b201/  
+**GitHub:** github.com/shahmikh
 
 ---
 
