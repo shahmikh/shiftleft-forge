@@ -95,6 +95,7 @@ jobs:
     permissions:
       id-token: write
       contents: read
+      security-events: write
 
     steps:
       - uses: actions/checkout@v4
