@@ -3,7 +3,7 @@
 > A production-grade, six-layer DevSecOps security pipeline built on GitHub Actions and AWS Free Tier.  
 > Every commit is scanned, every container is signed, every finding is explained.
 
-![Pipeline Status](https://github.com/YOUR-USERNAME/shiftleft-forge/actions/workflows/pipeline.yml/badge.svg)
+![Pipeline Status](https://github.com/shahmikh/shiftleft-forge/actions/workflows/pipeline.yml/badge.svg)
 ![Security Scanning](https://img.shields.io/badge/security-6--layer--scanning-brightgreen)
 ![Signed](https://img.shields.io/badge/image--signing-Cosign%20%2B%20Sigstore-blue)
 ![IaC](https://img.shields.io/badge/IaC-Terraform%20%2B%20Checkov-purple)
